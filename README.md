@@ -1,4 +1,4 @@
-# LSTM & SVG Market Prediction comparison
+# LSTM & SVR Market Prediction comparison
 
 ##### Project Type: B (Application Oriented)
 ##### Derrek Gass: 219615449
