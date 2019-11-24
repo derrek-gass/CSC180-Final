@@ -24,19 +24,13 @@ applications in terms of anomaly detection and fraud prevention, as well as pers
 investment strategy tuning. This can and has been solved with regression, moving averages,
 multivariate Bayesian time series (BSTS), Long Short Term Memory (LSTM), K Nearest
 neighbors, multilayer perceptrons, and other methods. We will be investigating LSTM,
-regression, and possibly BSTS, if time permits.
+SVR, and possibly BSTS, if time permits.
 
 
 ### Data sets:
-https://www.quandl.com/ - An free API with real time data incorporated into
-NASDAQ.
-https://www.quantopian.com/ - A crowd-sourced quantitative investment
-firm with an open dataset and API.
-https://data.worldbank.org/ - Graph, map and compare more than 1,000 time
-series indicators from the World Development Indicators.
-https://www.google.com/finance - a financial information site that is
-unmonetized and provided by Google.
-https://www.alphavantage.co/ - An API with real time and historical data.
+##### Yahoo Finance: 
+https://finance.yahoo.com/ - provides financial news, data and commentary including stock quotes, press releases, financial reports, and more
+
 
 ### Task Division:
 We will divide the tasks of data wrangling, model implementation, parameter tuning,
