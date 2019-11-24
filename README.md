@@ -1,7 +1,6 @@
 # LSTM & SVG Market Prediction comparison
 
 ##### Project Type: B 
-##### Team Members:
 ##### Derrek Gass: 219615449
 ##### Alexander Lee: 212490812
 
