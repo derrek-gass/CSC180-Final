@@ -1,6 +1,6 @@
 # LSTM & SVG Market Prediction comparison
 
-##### Project Type: B 
+##### Project Type: B (Application Oriented)
 ##### Derrek Gass: 219615449
 ##### Alexander Lee: 212490812
 
