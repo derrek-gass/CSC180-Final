@@ -27,7 +27,7 @@ neighbors, multilayer perceptrons, and other methods. We will be investigating L
 SVR, and possibly BSTS, if time permits.
 
 
-### Data sets:
+### Data set:
 ##### Yahoo Finance: 
 https://finance.yahoo.com/ - provides financial news, data and commentary including stock quotes, press releases, financial reports, and more
 
