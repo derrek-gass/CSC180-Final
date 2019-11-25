@@ -1,4 +1,4 @@
-# LSTM & SVR Market Prediction Models
+# LSTM Market Prediction Model
 
 ##### Project Type: B (Application Oriented)
 ##### Derrek Gass: 219615449
